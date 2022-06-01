@@ -17,3 +17,6 @@ A robot moves in the map and gathers information along the way. In this version,
 1.2 Deliverables
 Write your robot localisation program in Python 3.6.9 in a file called viterbi.py. Your program must be able to run as follows:
 $ python viterbi.py [input]
+
+
+如果您需要任何关于此assignment的帮助，可以联系vx:codingtuto
